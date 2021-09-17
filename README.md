@@ -1,2 +1,4 @@
-# nikhilrai-site
-a showcase website for  my portfolio
+# My portfolio
+ 
+ i am from kushinagar uttarpradesh
+ My proffesion is to do programming
